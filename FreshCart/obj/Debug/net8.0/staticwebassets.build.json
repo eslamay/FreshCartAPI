@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "nH0zM8WaeWu1rDyhBE0VpM1cPoxkdskQBxqK+a/j5bM=",
+  "Source": "FreshCart",
+  "BasePath": "_content/FreshCart",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FreshCart\\wwwroot",
+      "Source": "FreshCart",
+      "ContentRoot": "E:\\.NET\\WebAPI\\FreshCart\\FreshCart\\wwwroot\\",
+      "BasePath": "_content/FreshCart",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
